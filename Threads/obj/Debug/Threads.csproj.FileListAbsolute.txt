@@ -1,0 +1,6 @@
+D:\Berni\Pr\Projekte\Threads\Threads\bin\Debug\Threads.exe.config
+D:\Berni\Pr\Projekte\Threads\Threads\bin\Debug\Threads.exe
+D:\Berni\Pr\Projekte\Threads\Threads\bin\Debug\Threads.pdb
+D:\Berni\Pr\Projekte\Threads\Threads\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+D:\Berni\Pr\Projekte\Threads\Threads\obj\Debug\Threads.exe
+D:\Berni\Pr\Projekte\Threads\Threads\obj\Debug\Threads.pdb
